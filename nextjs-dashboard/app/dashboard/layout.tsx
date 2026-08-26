@@ -1,3 +1,5 @@
+// Creaing the side nav layout
+// I love it here thanks to trish
 import SideNav from '@/app/ui/dashboard/sidenav';
 import React from 'react';
 
