@@ -1,3 +1,5 @@
+import DashboardSkeleton from "@/app/ui/skeletons";
+
 export default function More() {
-    return <div>More content coming...</div>
-}
+    return <DashboardSkeleton />;
+      }
